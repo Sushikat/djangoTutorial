@@ -25,7 +25,9 @@ SECRET_KEY = '7tubwe^7nj9*5ger9s0yraci5!1woacl7))_zc4jv4z3c_12x&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'Ubuntukat',
+]
 
 
 # Application definition
